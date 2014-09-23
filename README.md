@@ -1,4 +1,4 @@
 elements
 ========
 
-Webpage elements useful for building sites.
+Webpage elements I find useful for building sites.
